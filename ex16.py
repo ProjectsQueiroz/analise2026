@@ -11,3 +11,4 @@ elif n > 30:
     print("Seu número é maior que 30")
 else:
     print("Seu número é negativo")
+    ex
